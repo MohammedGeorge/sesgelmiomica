@@ -1,0 +1,33 @@
+{
+  "index": {
+    "description": "An open-source, safe skin changer for League of Legends",
+    "downloads": "Downloads",
+    "downloadBtn": "Download for Free",
+    "downloadBtnInfo": "(Original)",
+    "downloadProBtn": "Download for Pro",
+    "downloadProBtnInfo": "(Developed by r4hack)",
+    "downloadProBadge": "100% Safe & Undetected",
+    "releaseDate": "Release Date",
+    "author": "By"
+  },
+  "proSelect": {
+    "purchaseLabel": "LICENSE PURCHASE",
+    "existingLabel": "I HAVE A LICENSE"
+  },
+  "checkoutForm": {
+    "payBtn": "PAY NOW（USD $1）",
+    "rePurchaseBtn": "RE-PURCHASE",
+    "licenseMessage": "Your license is",
+    "paymentSuccess": "Payment successful",
+    "paymentProcessing": "Your payment is processing",
+    "paymentFailed": "Your payment is failed",
+    "paymentError": "Something went wrong"
+  },
+  "downloadPro": {
+    "enterLicenseLabel": "Enter your license",
+    "getBtn": "GET",
+    "payDate": "Purchase Date:",
+    "version": "Version:",
+    "emptyRecord": "No record found"
+  }
+}
